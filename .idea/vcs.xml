@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/ewallet-backend/api-gateway" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ewallet-backend/auth-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ewallet-backend/notification_service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ewallet-backend/transaction-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ewallet-backend/user-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ewallet-backend/wallet-service" vcs="Git" />
+  </component>
+</project>
